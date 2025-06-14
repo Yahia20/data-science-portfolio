@@ -79,7 +79,6 @@ These insights can guide preventive maintenance strategies to minimize downtime 
 
 ---
 
-**📌 Author:** [Your Name]  
-**📌 Repository:** [GitHub Link]  
-**📌 Date:** March 2025
+ Author: Yahia Zakaria
+
 
